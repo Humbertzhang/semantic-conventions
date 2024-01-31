@@ -2,7 +2,7 @@
 linkTitle: MEtrics
 --->
 
-# Semantic Conventions for OpenAI Matrics
+# Semantic Conventions for OpenAI Metrics
 
 **Status**: [Experimental][DocumentStatus]
 
